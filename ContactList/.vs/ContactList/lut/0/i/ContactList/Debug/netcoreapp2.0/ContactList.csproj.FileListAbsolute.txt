@@ -1,0 +1,10 @@
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\ContactList\Debug\netcoreapp2.0\ContactList.deps.json
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\ContactList\Debug\netcoreapp2.0\ContactList.runtimeconfig.json
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\ContactList\Debug\netcoreapp2.0\ContactList.runtimeconfig.dev.json
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\ContactList\Debug\netcoreapp2.0\ContactList.dll
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\ContactList\Debug\netcoreapp2.0\ContactList.pdb
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\ContactList\Debug\netcoreapp2.0\ContactList.csproj.CoreCompileInputs.cache
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\ContactList\Debug\netcoreapp2.0\ContactList.AssemblyInfoInputs.cache
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\ContactList\Debug\netcoreapp2.0\ContactList.AssemblyInfo.cs
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\ContactList\Debug\netcoreapp2.0\ContactList.dll
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\ContactList\Debug\netcoreapp2.0\ContactList.pdb

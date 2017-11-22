@@ -1,0 +1,14 @@
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\UnitTests\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\UnitTests\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\UnitTests\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\UnitTests\Debug\netcoreapp2.0\UnitTests.deps.json
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\UnitTests\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\UnitTests\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\UnitTests\Debug\netcoreapp2.0\UnitTests.dll
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\b\UnitTests\Debug\netcoreapp2.0\UnitTests.pdb
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\UnitTests\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\UnitTests\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\UnitTests\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\UnitTests\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\UnitTests\Debug\netcoreapp2.0\UnitTests.dll
+D:\5AHIF\C#\GitHub Repos\contact-list-quiz-5ahif-JusterLuk\ContactList\.vs\ContactList\lut\0\i\UnitTests\Debug\netcoreapp2.0\UnitTests.pdb
